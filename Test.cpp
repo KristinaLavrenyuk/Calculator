@@ -13,7 +13,7 @@ int main()
 	std::cout << "Input number 2: ";
 	std::cin >> b;
 
-	result = a + b;
+	result = a - b;
 	std::cout << result;
 
 	system("pause");
